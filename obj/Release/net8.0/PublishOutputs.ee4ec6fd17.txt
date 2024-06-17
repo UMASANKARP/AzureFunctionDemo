@@ -1,0 +1,51 @@
+E:\Azure Function App\bin\Release\net8.0\publish\Azure Function App.exe
+E:\Azure Function App\bin\Release\net8.0\publish\host.json
+E:\Azure Function App\bin\Release\net8.0\publish\functions.metadata
+E:\Azure Function App\bin\Release\net8.0\publish\worker.config.json
+E:\Azure Function App\bin\Release\net8.0\publish\extensions.json
+E:\Azure Function App\bin\Release\net8.0\publish\.azurefunctions/function.deps.json
+E:\Azure Function App\bin\Release\net8.0\publish\.azurefunctions/Microsoft.Azure.Functions.Worker.Extensions.dll
+E:\Azure Function App\bin\Release\net8.0\publish\.azurefunctions/Microsoft.Azure.Functions.Worker.Extensions.pdb
+E:\Azure Function App\bin\Release\net8.0\publish\.azurefunctions/Microsoft.Azure.WebJobs.Extensions.FunctionMetadataLoader.dll
+E:\Azure Function App\bin\Release\net8.0\publish\.azurefunctions/Microsoft.Azure.WebJobs.Host.Storage.dll
+E:\Azure Function App\bin\Release\net8.0\publish\.azurefunctions/Microsoft.WindowsAzure.Storage.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Azure Function App.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Azure Function App.deps.json
+E:\Azure Function App\bin\Release\net8.0\publish\Azure Function App.runtimeconfig.json
+E:\Azure Function App\bin\Release\net8.0\publish\Azure Function App.pdb
+E:\Azure Function App\bin\Release\net8.0\publish\Azure.Core.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Google.Protobuf.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Grpc.Core.Api.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Grpc.Net.Client.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Grpc.Net.ClientFactory.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Grpc.Net.Common.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Microsoft.ApplicationInsights.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Microsoft.AI.DependencyCollector.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Microsoft.AI.EventCounterCollector.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Microsoft.AI.PerfCounterCollector.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Microsoft.AI.WindowsServer.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Microsoft.ApplicationInsights.WorkerService.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Microsoft.Azure.Functions.Worker.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Microsoft.Azure.Functions.Worker.ApplicationInsights.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Microsoft.Azure.Functions.Worker.Core.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Microsoft.Azure.Functions.Worker.Extensions.Abstractions.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Microsoft.Azure.Functions.Worker.Extensions.Http.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Microsoft.Azure.Functions.Worker.Extensions.Http.AspNetCore.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Microsoft.Azure.Functions.Worker.Grpc.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Microsoft.Extensions.Logging.ApplicationInsights.dll
+E:\Azure Function App\bin\Release\net8.0\publish\Microsoft.Win32.SystemEvents.dll
+E:\Azure Function App\bin\Release\net8.0\publish\System.Configuration.ConfigurationManager.dll
+E:\Azure Function App\bin\Release\net8.0\publish\System.Diagnostics.PerformanceCounter.dll
+E:\Azure Function App\bin\Release\net8.0\publish\System.Drawing.Common.dll
+E:\Azure Function App\bin\Release\net8.0\publish\System.Memory.Data.dll
+E:\Azure Function App\bin\Release\net8.0\publish\System.Security.Cryptography.ProtectedData.dll
+E:\Azure Function App\bin\Release\net8.0\publish\System.Security.Permissions.dll
+E:\Azure Function App\bin\Release\net8.0\publish\System.Windows.Extensions.dll
+E:\Azure Function App\bin\Release\net8.0\publish\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Azure Function App\bin\Release\net8.0\publish\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Azure Function App\bin\Release\net8.0\publish\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Azure Function App\bin\Release\net8.0\publish\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Azure Function App\bin\Release\net8.0\publish\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Azure Function App\bin\Release\net8.0\publish\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
