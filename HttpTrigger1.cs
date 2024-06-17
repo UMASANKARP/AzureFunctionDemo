@@ -1,0 +1,29 @@
+using Microsoft.Azure.Functions.Worker;
+using Microsoft.Azure.Functions.Worker.Http;
+using Microsoft.Extensions.Logging;
+using System.Threading.Tasks;
+
+namespace Company.Function
+{
+    public class HttpTrigger1
+    {
+        private readonly ILogger<HttpTrigger1> _logger;
+
+        public HttpTrigger1(ILogger<HttpTrigger1> logger)
+        {
+            _logger = logger;
+        }
+
+        [Function("HttpTrigger1")]
+        public async Task<HttpResponseData> Run(
+            [HttpTrigger(AuthorizationLevel.Function, "get", "post")] HttpRequestData req)
+        {
+            _logger.LogInformation("C# HTTP trigger function processed a request.");
+
+            var response = req.CreateResponse(System.Net.HttpStatusCode.OK);
+            await response.WriteStringAsync("Hello World this is Uma Shankar Demo");
+
+            return response;
+        }
+    }
+}
