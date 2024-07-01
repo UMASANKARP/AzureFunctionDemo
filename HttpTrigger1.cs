@@ -21,7 +21,7 @@ namespace Company.Function
             _logger.LogInformation("C# HTTP trigger function processed a request.");
 
             var response = req.CreateResponse(System.Net.HttpStatusCode.OK);
-            await response.WriteStringAsync("Hello World this is Uma Shankar Demo");
+            await response.WriteStringAsync("Hello World this is Uma Shankar Demo part1-10");
 
             return response;
         }
