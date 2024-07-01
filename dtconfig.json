@@ -1,0 +1,8 @@
+{
+  "Tenant": "ztf52388",
+  "ClusterID": 445768248,
+  "Connection": {
+    "BaseUrl": "https://ztf52388.live.dynatrace.com",
+    "AuthToken": "dt0a01.ztf52388.28e87c8717f0d6bbcc82a3a2f5ab44116f1fc61f13e9c7c1a1f77dbc784495ff"
+  }
+}
