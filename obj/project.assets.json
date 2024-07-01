@@ -75,6 +75,23 @@
           }
         }
       },
+      "Dynatrace.OpenTelemetry.Instrumentation.AzureFunctions.Worker/1.291.1": {
+        "type": "package",
+        "dependencies": {
+          "Dynatrace.OpenTelemetry.Instrumentation.AzureFunctions.Core": "1.291.1",
+          "Microsoft.Azure.Functions.Worker.Core": "1.0.0"
+        },
+        "compile": {
+          "lib/net5.0/Dynatrace.OpenTelemetry.Instrumentation.AzureFunctions.Worker.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Dynatrace.OpenTelemetry.Instrumentation.AzureFunctions.Worker.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Google.Protobuf/3.25.2": {
         "type": "package",
         "compile": {
@@ -1832,6 +1849,20 @@
         "icon.png",
         "lib/netstandard2.0/Dynatrace.OpenTelemetry.Instrumentation.AzureFunctions.Core.dll",
         "lib/netstandard2.0/Dynatrace.OpenTelemetry.Instrumentation.AzureFunctions.Core.xml"
+      ]
+    },
+    "Dynatrace.OpenTelemetry.Instrumentation.AzureFunctions.Worker/1.291.1": {
+      "sha512": "/N18IZDNzQJ+DMzbQkgqTnV8FT5D6tKR9Pc0eNnFSEgpXSuUbSIOFej+xa4DuaEdBS7n+Air2uqVL8urGqQolQ==",
+      "type": "package",
+      "path": "dynatrace.opentelemetry.instrumentation.azurefunctions.worker/1.291.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dynatrace.opentelemetry.instrumentation.azurefunctions.worker.1.291.1.nupkg.sha512",
+        "dynatrace.opentelemetry.instrumentation.azurefunctions.worker.nuspec",
+        "icon.png",
+        "lib/net5.0/Dynatrace.OpenTelemetry.Instrumentation.AzureFunctions.Worker.dll",
+        "lib/net5.0/Dynatrace.OpenTelemetry.Instrumentation.AzureFunctions.Worker.xml"
       ]
     },
     "Google.Protobuf/3.25.2": {
@@ -4955,6 +4986,7 @@
     "net8.0": [
       "Dynatrace.OpenTelemetry >= 1.291.1",
       "Dynatrace.OpenTelemetry.Instrumentation.AzureFunctions >= 1.291.1",
+      "Dynatrace.OpenTelemetry.Instrumentation.AzureFunctions.Worker >= 1.291.1",
       "Microsoft.ApplicationInsights.WorkerService >= 2.22.0",
       "Microsoft.Azure.Functions.Worker >= 1.21.0",
       "Microsoft.Azure.Functions.Worker.ApplicationInsights >= 1.2.0",
@@ -5012,6 +5044,10 @@
             "version": "[1.291.1, )"
           },
           "Dynatrace.OpenTelemetry.Instrumentation.AzureFunctions": {
+            "target": "Package",
+            "version": "[1.291.1, )"
+          },
+          "Dynatrace.OpenTelemetry.Instrumentation.AzureFunctions.Worker": {
             "target": "Package",
             "version": "[1.291.1, )"
           },

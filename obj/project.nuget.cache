@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lEanJk9xdy4=",
+  "dgSpecHash": "dbStbLR6sio=",
   "success": true,
   "projectFilePath": "E:\\sunny\\AzureFunctionDemo\\Azure Function App.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\karth_1p\\.nuget\\packages\\dynatrace.opentelemetry\\1.291.1\\dynatrace.opentelemetry.1.291.1.nupkg.sha512",
     "C:\\Users\\karth_1p\\.nuget\\packages\\dynatrace.opentelemetry.instrumentation.azurefunctions\\1.291.1\\dynatrace.opentelemetry.instrumentation.azurefunctions.1.291.1.nupkg.sha512",
     "C:\\Users\\karth_1p\\.nuget\\packages\\dynatrace.opentelemetry.instrumentation.azurefunctions.core\\1.291.1\\dynatrace.opentelemetry.instrumentation.azurefunctions.core.1.291.1.nupkg.sha512",
+    "C:\\Users\\karth_1p\\.nuget\\packages\\dynatrace.opentelemetry.instrumentation.azurefunctions.worker\\1.291.1\\dynatrace.opentelemetry.instrumentation.azurefunctions.worker.1.291.1.nupkg.sha512",
     "C:\\Users\\karth_1p\\.nuget\\packages\\google.protobuf\\3.25.2\\google.protobuf.3.25.2.nupkg.sha512",
     "C:\\Users\\karth_1p\\.nuget\\packages\\grpc.core.api\\2.60.0\\grpc.core.api.2.60.0.nupkg.sha512",
     "C:\\Users\\karth_1p\\.nuget\\packages\\grpc.net.client\\2.60.0\\grpc.net.client.2.60.0.nupkg.sha512",
