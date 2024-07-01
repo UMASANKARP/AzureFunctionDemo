@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Azure Function App\\Azure Function App.csproj": {}
+    "E:\\sunny\\AzureFunctionDemo\\Azure Function App.csproj": {}
   },
   "projects": {
-    "E:\\Azure Function App\\Azure Function App.csproj": {
+    "E:\\sunny\\AzureFunctionDemo\\Azure Function App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Azure Function App\\Azure Function App.csproj",
+        "projectUniqueName": "E:\\sunny\\AzureFunctionDemo\\Azure Function App.csproj",
         "projectName": "Azure Function App",
-        "projectPath": "E:\\Azure Function App\\Azure Function App.csproj",
+        "projectPath": "E:\\sunny\\AzureFunctionDemo\\Azure Function App.csproj",
         "packagesPath": "C:\\Users\\karth_1p\\.nuget\\packages\\",
-        "outputPath": "E:\\Azure Function App\\obj\\",
+        "outputPath": "E:\\sunny\\AzureFunctionDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karth_1p\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Dynatrace.OpenTelemetry": {
+              "target": "Package",
+              "version": "[1.291.1, )"
+            },
+            "Dynatrace.OpenTelemetry.Instrumentation.AzureFunctions": {
+              "target": "Package",
+              "version": "[1.291.1, )"
+            },
             "Microsoft.ApplicationInsights.WorkerService": {
               "target": "Package",
               "version": "[2.22.0, )"
@@ -66,6 +74,14 @@
             "Microsoft.Azure.Functions.Worker.Sdk": {
               "target": "Package",
               "version": "[1.17.0, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.0.0-rc9.5, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.0.0-rc9.5, )"
             }
           },
           "imports": [
